@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "_pages/about.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -164,8 +164,9 @@
   },
   "active": "c8a9af00eac2d168",
   "lastOpenFiles": [
-    "images/Fig abstract-02.png",
+    "=10x10.md",
     "_pages/about.md",
+    "images/Fig abstract-02.png",
     "images/foo-bar-identity-th.jpg"
   ]
 }

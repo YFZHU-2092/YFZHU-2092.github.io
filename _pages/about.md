@@ -18,30 +18,36 @@ You can find my CV here: [Zhu Yifan's Curriculum Vitae](../assets/Zhuyifan_cv_We
 # Publications
 <font size = 4>What Prevents Us From Learning Virtual Reality Space: A Study of Indoor Corridor Angle and Obstacle Transparency (2024)</font>
 **Zhu, Yifan.**, Liu, Mingjun., Zhou, Jia.
-![Editing a Fig for a Publication](../images/Fig abstract-02.png#pic_left =174x109)<font size = 2>International Journal of Human–Computer Interaction</font>
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="../images/Fig abstract-02.png" alt="Image 1" width="100" height="50">
+</div>
+<font size = 2>International Journal of Human–Computer Interaction</font><br>
 [DOI](https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2364473/)
 
 <font size = 4>The Association Between Academic Clickbait and Impact: From the Perspective of Online Media News (2023)</font>
 **Zhu, Yifan.**, Li, Xin., Jiang, Yushan., Zhou, Jia.
-![Editing a Fig for a Publication](/images/Fig abstract-01.png#pic_left =174x109)<font size = 2>HCI International 2023</font>
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="../images/Fig abstract-01.png" alt="Image 1" width="100" height="50">
+</div>
+<font size = 2>HCI International 2023</font>
 [DOI](https://doi.org/10.1007/978-3-031-48044-7_32)
 
 ---
 
 
 # Skills
-- Human-computer interaction
+###### Human-computer interaction
 <font size = 2>Statistics, User Study, Persona, Usability Evaluation and Test, Survey Study, Experiment Design, UX/UI design</font>
 
-- Code
+###### Code
 <font size = 2>Matlab, C(C#, C++), R, Python, Batch command,</font>
 
-- Virtual reality development
+###### Virtual reality development
 <font size = 2>Based on Unity engine, Steam VR platform. </font>
 
-- Design
+###### Design
 <font size = 2>Photoshop, Illustrator, Xd</font>
 
-- Hardware development (IoT)
+###### Hardware development (IoT)
 <font size = 2>Based on stm32, Infineon K60, et.al. </font>
 
