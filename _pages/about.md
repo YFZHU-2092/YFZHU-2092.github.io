@@ -38,9 +38,15 @@ You can find my CV here: [Zhu Yifan's Curriculum Vitae](../assets/Zhuyifan_cv_We
 Statistics, User Study, Persona, Usability Evaluation and Test, Survey Study, Experiment Design, UX/UI design</font></p>
 <p><font size = 4> <b>Code</b>
 Matlab, C(C#, C++), R, Python, Batch command</font></p>
-<p><font size = 4><b>Virtual reality development</b>
-Based on Unity engine, Steam VR platform</font></p>
 <p><font size = 4> <b>Design</b>
 Photoshop, Illustrator, Xd</font></p>
+<p><font size = 4><b>Virtual reality development</b>
+Digital trace & Eye tracking based on Unity engine (Steam VR) </font></p>
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="../images/Skills-2.png" alt="Image 1" width="450" height="110">
+</div>
 <p><font size = 4><b>Hardware development (IoT)</b>
 Based on stm32, Infineon K60, et.al. </font></p>
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="../images/Skills-1.png" alt="Image 1" width="450" height="110">
+</div>

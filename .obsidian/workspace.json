@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "_pages/about.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -164,8 +164,16 @@
   },
   "active": "c8a9af00eac2d168",
   "lastOpenFiles": [
-    "=10x10.md",
+    "images/Skills-2.png",
+    "images/Skills-1.png",
+    "images/Skills.png",
+    "_pages/cv.md",
+    "_pages/markdown.md",
+    "_teaching/2014-spring-teaching-1.md",
+    "_teaching/2015-spring-teaching-2.md",
     "_pages/about.md",
+    "images/Fig abstract-02.png.tmp$$",
+    "=10x10.md",
     "images/Fig abstract-02.png",
     "images/foo-bar-identity-th.jpg"
   ]
