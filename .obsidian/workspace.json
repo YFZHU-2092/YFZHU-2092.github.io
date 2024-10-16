@@ -16,7 +16,9 @@
                 "file": "_pages/about.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "about"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "about 的反向链接列表"
             }
           },
           {
@@ -105,7 +115,9 @@
                 "file": "_pages/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "about 的出链列表"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -126,7 +140,9 @@
               "type": "outline",
               "state": {
                 "file": "_pages/about.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "about 的大纲"
             }
           }
         ]
@@ -148,7 +164,8 @@
   },
   "active": "c8a9af00eac2d168",
   "lastOpenFiles": [
-    "images/foo-bar-identity-th.jpg",
-    "_pages/about.md"
+    "images/Fig abstract-02.png",
+    "_pages/about.md",
+    "images/foo-bar-identity-th.jpg"
   ]
 }
