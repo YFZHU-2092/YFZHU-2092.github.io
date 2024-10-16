@@ -16,38 +16,33 @@ You can find my CV here: [Zhu Yifan's Curriculum Vitae](../assets/Zhuyifan_cv_We
 ---
 
 # Publications
-<font size = 4>What Prevents Us From Learning Virtual Reality Space: A Study of Indoor Corridor Angle and Obstacle Transparency (2024)</font>
-**Zhu, Yifan.**, Liu, Mingjun., Zhou, Jia.
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="../images/Fig abstract-02.png" alt="Image 1" width="100" height="50">
+<div style="display: flex; flex-wrap: wrap; align-items: center">
+  <img src="../images/Fig abstract-02.png" alt="Image 1" width="167" height="100">
+   <p><font color = "white">1</font></p>
+   <p><font size = 4>What Prevents Us From Learning Virtual Reality Space: A Study<br> of Indoor Corridor Angle and Obstacle Transparency (2024)</font><br><b>Zhu, Yifan.</b>, Liu, Mingjun., Zhou, Jia.</p>
 </div>
-<font size = 2>International Journal of Human–Computer Interaction</font><br>
-[DOI](https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2364473/)
+<font size = 2>International Journal of Human–Computer Interaction (IJHCI)</font> 
+<a href="https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2364473/">DOI</a>
 
-<font size = 4>The Association Between Academic Clickbait and Impact: From the Perspective of Online Media News (2023)</font>
-**Zhu, Yifan.**, Li, Xin., Jiang, Yushan., Zhou, Jia.
+<br>
+
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="../images/Fig abstract-01.png" alt="Image 1" width="100" height="50">
+  <img src="../images/Fig abstract-01.png" alt="Image 1" width="167" height="100">
+   <p><font color = "white">1</font></p>
+   <p><font size = 4>The Association Between Academic Clickbait and Impact: From<br> the Perspective of Online Media News (2023)</font><br><b>Zhu, Yifan.</b>, Li, Xin., Jiang, Yushan., Zhou, Jia.</p>
 </div>
 <font size = 2>HCI International 2023</font>
-[DOI](https://doi.org/10.1007/978-3-031-48044-7_32)
-
----
+<a href="https://doi.org/10.1007/978-3-031-48044-7_32">DOI</a>
 
 
 # Skills
-###### Human-computer interaction
+<font size = 4><b>Human-computer interaction</b></font>
 <font size = 2>Statistics, User Study, Persona, Usability Evaluation and Test, Survey Study, Experiment Design, UX/UI design</font>
-
-###### Code
+<font size = 4> <b>Code</b></font>
 <font size = 2>Matlab, C(C#, C++), R, Python, Batch command,</font>
-
-###### Virtual reality development
+<font size = 4><b>Virtual reality development</b></font>
 <font size = 2>Based on Unity engine, Steam VR platform. </font>
-
-###### Design
+<font size = 4> <b>Design</b></font>
 <font size = 2>Photoshop, Illustrator, Xd</font>
-
-###### Hardware development (IoT)
+<font size = 4><b>Hardware development (IoT)</b></font>
 <font size = 2>Based on stm32, Infineon K60, et.al. </font>
-
