@@ -13,8 +13,10 @@ I'm a third year graduate student from CQU-HCI Lab, [Chongqing University](https
 
 You can find my CV here: [Zhu Yifan's Curriculum Vitae](../assets/Zhuyifan_cv_Web.pdf).
 
-Publications
-<font size = 4>What Prevents Us From Learning Virtual Reality Space: A Study of Indoor Corridor Angle and Obstacle Transparency (2024)<font>
+---
+
+# Publications
+<font size = 4>What Prevents Us From Learning Virtual Reality Space: A Study of Indoor Corridor Angle and Obstacle Transparency (2024)</font>
 **Zhu, Yifan.**, Liu, Mingjun., Zhou, Jia.
 ![Editing a Fig for a Publication](../images/Fig abstract-02.png)
 <font size = 2>International Journal of Human–Computer Interaction</font>
@@ -22,9 +24,11 @@ Publications
 
 <font size = 4>The Association Between Academic Clickbait and Impact: From the Perspective of Online Media News (2023)</font>
 **Zhu, Yifan.**, Li, Xin., Jiang, Yushan., Zhou, Jia.
-![Editing a Fig for a Publication](../images/Fig abstract-01.png)
+![Editing a Fig for a Publication](/images/Fig abstract-01.png)
 <font size = 2>HCI International 2023</font>
 [DOI](https://doi.org/10.1007/978-3-031-48044-7_32)
+
+---
 
 
 # Skills
