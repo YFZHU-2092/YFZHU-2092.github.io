@@ -8,8 +8,8 @@ redirect_from:
 ---
 I'm a third year graduate student from CQU-HCI Lab, [Chongqing University](https://www.cqu.edu.cn/). My research focuses on human–computer interaction, virtual reality and spatial cognition.
 
-- Master, Human–computer interaction(Ergonomic), Chongqing University
-- Bachelor, Industry Design, Chongqing University
+- Master (2022-), Human–computer interaction(Ergonomic), Chongqing University
+- Bachelor (2018-2022), Industry Design, Chongqing University
 
 You can find my CV here: [Zhu Yifan's Curriculum Vitae](../assets/Zhuyifan_cv_Web.pdf).
 
