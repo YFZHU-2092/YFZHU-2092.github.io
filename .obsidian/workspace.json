@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "_pages/about.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -147,5 +147,8 @@
     }
   },
   "active": "c8a9af00eac2d168",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "images/foo-bar-identity-th.jpg",
+    "_pages/about.md"
+  ]
 }
