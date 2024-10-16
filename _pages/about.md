@@ -23,9 +23,7 @@ You can find my CV here: [Zhu Yifan's Curriculum Vitae](../assets/Zhuyifan_cv_We
 </div>
 <font size = 2>International Journal of Human–Computer Interaction (IJHCI)</font> 
 <a href="https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2364473/">DOI</a>
-
 <br>
-
 <div style="display: flex; flex-wrap: wrap;">
   <img src="../images/Fig abstract-01.png" alt="Image 1" width="167" height="100">
    <p><font color = "white">1</font></p>
@@ -38,11 +36,15 @@ You can find my CV here: [Zhu Yifan's Curriculum Vitae](../assets/Zhuyifan_cv_We
 # Skills
 <font size = 4><b>Human-computer interaction</b></font>
 <font size = 2>Statistics, User Study, Persona, Usability Evaluation and Test, Survey Study, Experiment Design, UX/UI design</font>
+<br>
 <font size = 4> <b>Code</b></font>
 <font size = 2>Matlab, C(C#, C++), R, Python, Batch command,</font>
+<br>
 <font size = 4><b>Virtual reality development</b></font>
 <font size = 2>Based on Unity engine, Steam VR platform. </font>
+<br>
 <font size = 4> <b>Design</b></font>
 <font size = 2>Photoshop, Illustrator, Xd</font>
+<br>
 <font size = 4><b>Hardware development (IoT)</b></font>
 <font size = 2>Based on stm32, Infineon K60, et.al. </font>
