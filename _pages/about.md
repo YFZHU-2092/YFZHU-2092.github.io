@@ -17,7 +17,7 @@ You can find my CV here: [Zhu Yifan's Curriculum Vitae](../assets/Zhuyifan_cv_We
 
 # Publications
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="../images/Fig abstract-00.png" alt="Image 1" width="167" height="100">
+  <img src="../images/Fig abstract-04.png" alt="Image 1" width="167" height="100">
    <p><font color = "white">1</font></p>
    <p><font size = 4>Quantifying spatial ability through digital traces in mobile<br> navigation games (2024)</font><br><b>Zhu, Yifan.</b>, Zuo, Yanling., Sun, Guolong., Zhou, Jia*.</p>
 </div>
@@ -25,9 +25,9 @@ You can find my CV here: [Zhu Yifan's Curriculum Vitae](../assets/Zhuyifan_cv_We
 <a href="">On pressing</a>
 <br>
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="../images/Fig abstract-00.png" alt="Image 1" width="167" height="100">
+  <img src="../images/Fig abstract-03.png" alt="Image 1" width="167" height="100">
    <p><font color = "white">1</font></p>
-   <p><font size = 4>A Human Centered Algorithmic Management Framework:<br> A Literature Review (2024)</font><br>Jiang, Yushan., Fan, Shixin., <b>Zhu, Yifan.</b>, Wang, long., Ye, Kunhui., <br>Zhou, Jia*., Zhang, Liangqing., Wang, Zhixiu., Wu, Liu., Pei-Luen Patrick, Rau.</p>
+   <p><font size = 4>A Human Centered Algorithmic Management Framework:<br> A Literature Review (2024)</font><br>Jiang, Yushan., Fan, Shixin., <b>Zhu, Yifan.</b>, Wang, long., Ye, Kunhui., <br>Zhou, Jia*., Zhang, Liangqing., Wang, Zhixiu., Wu, Liu., <br>Pei-Luen Patrick, Rau.</p>
 </div>
 <font size = 2>HCI International 2023</font>
 <a href="">On pressing</a>
@@ -50,7 +50,7 @@ You can find my CV here: [Zhu Yifan's Curriculum Vitae](../assets/Zhuyifan_cv_We
 
 # Working paper
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="../images/Fig abstract-00.png" alt="Image 1" width="167" height="100">
+  <img src="../images/Fig abstract-05.png" alt="Image 1" width="167" height="100">
    <p><font color = "white">1</font></p>
    <p><font size = 4>Reading digital maps while walking in virtual reality environment: <br> Improving pedestrian safety and level of natural interaction</font><br><b>Zhu, Yifan.</b>,  Zhou, Jia*.</p>
 </div>
@@ -58,7 +58,7 @@ You can find my CV here: [Zhu Yifan's Curriculum Vitae](../assets/Zhuyifan_cv_We
 <a href="">Under review</a>
 <br>
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="../images/Fig abstract-00.png" alt="Image 1" width="167" height="100">
+  <img src="../images/Fig abstract-06.png" alt="Image 1" width="167" height="100">
    <p><font color = "white">1</font></p>
    <p><font size = 4>Denser Grid Patterns Correlate with More Precise Spatial <br> Cognition</font><br><b>Zhu, Yifan.</b>, Cao, Jingjing., Zuo, Yanling., Liu, Mingjun., Sun, Guolong.,<br> Zhou, Jia*, An, Ning.</p>
 </div>
