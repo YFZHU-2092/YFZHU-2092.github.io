@@ -19,7 +19,7 @@ You can find my CV here: [Zhu Yifan's Curriculum Vitae](../assets/Zhuyifan_cv_We
 <div style="display: flex; flex-wrap: wrap;">
   <img src="../images/Fig abstract-04.png" alt="Image 1" width="167" height="100">
    <p><font color = "white">1</font></p>
-   <p><font size = 3>Quantifying spatial ability through digital traces in mobile<br> navigation games (2024)</font><br><b>Zhu, Yifan.</b>, Zuo, Yanling., Sun, Guolong., Zhou, Jia*.</p>
+   <p><font size = 4>Quantifying spatial ability through digital traces in mobile<br> navigation games (2024)</font><br><b>Zhu, Yifan.</b>, Zuo, Yanling., Sun, Guolong., Zhou, Jia*.</p>
 </div>
 <font size = 2>22nd Triennial Congress of the International Ergonomics Association 2024</font>
 <a href="">On pressing</a>
